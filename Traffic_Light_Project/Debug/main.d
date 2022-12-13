@@ -1,0 +1,36 @@
+main.d main.o: .././main.c .././APPLICATION/application.h \
+ .././APPLICATION/../ECUAL/LED_DRIVER/LED.h \
+ .././APPLICATION/../ECUAL/LED_DRIVER/../../MCAL/DIO_DRIVER/DIO.h \
+ .././APPLICATION/../ECUAL/LED_DRIVER/../../MCAL/DIO_DRIVER/../../UTILITIES/registers.h \
+ .././APPLICATION/../ECUAL/LED_DRIVER/../../MCAL/DIO_DRIVER/../../UTILITIES/types.h \
+ .././APPLICATION/../ECUAL/LED_DRIVER/../../MCAL/DIO_DRIVER/../../UTILITIES/bits_func.h \
+ .././APPLICATION/../ECUAL/BUTTON_DRIVER/BUTTON.h \
+ .././APPLICATION/../ECUAL/BUTTON_DRIVER/../../MCAL/DIO_DRIVER/DIO.h \
+ .././APPLICATION/../MCAL/timer_driver/timer.h \
+ .././APPLICATION/../MCAL/timer_driver/../../UTILITIES/registers.h \
+ .././APPLICATION/../UTILITIES/interrupt.h \
+ .././APPLICATION/../UTILITIES/registers.h
+
+.././APPLICATION/application.h:
+
+.././APPLICATION/../ECUAL/LED_DRIVER/LED.h:
+
+.././APPLICATION/../ECUAL/LED_DRIVER/../../MCAL/DIO_DRIVER/DIO.h:
+
+.././APPLICATION/../ECUAL/LED_DRIVER/../../MCAL/DIO_DRIVER/../../UTILITIES/registers.h:
+
+.././APPLICATION/../ECUAL/LED_DRIVER/../../MCAL/DIO_DRIVER/../../UTILITIES/types.h:
+
+.././APPLICATION/../ECUAL/LED_DRIVER/../../MCAL/DIO_DRIVER/../../UTILITIES/bits_func.h:
+
+.././APPLICATION/../ECUAL/BUTTON_DRIVER/BUTTON.h:
+
+.././APPLICATION/../ECUAL/BUTTON_DRIVER/../../MCAL/DIO_DRIVER/DIO.h:
+
+.././APPLICATION/../MCAL/timer_driver/timer.h:
+
+.././APPLICATION/../MCAL/timer_driver/../../UTILITIES/registers.h:
+
+.././APPLICATION/../UTILITIES/interrupt.h:
+
+.././APPLICATION/../UTILITIES/registers.h:

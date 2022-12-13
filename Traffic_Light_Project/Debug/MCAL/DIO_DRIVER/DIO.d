@@ -1,0 +1,12 @@
+MCAL/DIO_DRIVER/DIO.d MCAL/DIO_DRIVER/DIO.o: ../MCAL/DIO_DRIVER/DIO.c \
+ ../MCAL/DIO_DRIVER/DIO.h ../MCAL/DIO_DRIVER/../../UTILITIES/registers.h \
+ ../MCAL/DIO_DRIVER/../../UTILITIES/types.h \
+ ../MCAL/DIO_DRIVER/../../UTILITIES/bits_func.h
+
+../MCAL/DIO_DRIVER/DIO.h:
+
+../MCAL/DIO_DRIVER/../../UTILITIES/registers.h:
+
+../MCAL/DIO_DRIVER/../../UTILITIES/types.h:
+
+../MCAL/DIO_DRIVER/../../UTILITIES/bits_func.h:
