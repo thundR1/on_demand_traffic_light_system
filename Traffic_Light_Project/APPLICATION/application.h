@@ -3,7 +3,6 @@
 
 #include "../ECUAL/LED_DRIVER/LED.h" // DIO is included in LED.h
 #include "../ECUAL/BUTTON_DRIVER/BUTTON.h"
-#include "../MCAL/timer_driver/timer.h"
 #include "../UTILITIES/interrupt.h"
 
 void App_init(void);            // Initialize the application

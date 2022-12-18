@@ -2,6 +2,7 @@
 #define LED_H_
 
 #include "../../MCAL/DIO_DRIVER/DIO.h"
+#include "../MCAL/timer_driver/timer.h"
 
 // Car LEDs PIN Number
 #define CAR_LEDS_PORT PORT_A
